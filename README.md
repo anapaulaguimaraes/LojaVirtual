@@ -25,6 +25,12 @@ Tecnologias utilizadas para desenvolver o projeto:
 
    
 
+#### Veja como ficou o projeto:
+
+https://anapaulaguimaraes.github.io/LojaVirtual/
+
+
+
 ### Página Inicial do Projeto - Loja Virtual
 
 
