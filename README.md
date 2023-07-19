@@ -35,7 +35,7 @@ https://anapaulaguimaraes.github.io/LojaVirtual/
 
 
 
-![LojaVirtual]()
+![LojaVirtual](https://github.com/anapaulaguimaraes/LojaVirtual/blob/anapaula/imagens/imagem%20projeto1.PNG?raw=true)
 
 
 
@@ -43,7 +43,7 @@ https://anapaulaguimaraes.github.io/LojaVirtual/
 
 
 
-![LojaVirtual]()
+![LojaVirtual](https://github.com/anapaulaguimaraes/LojaVirtual/blob/anapaula/imagens/imagem%20projeto2.PNG?raw=true)
 
 
 
@@ -51,7 +51,7 @@ https://anapaulaguimaraes.github.io/LojaVirtual/
 
 
 
-![LojaVirtual]()
+![LojaVirtual](https://github.com/anapaulaguimaraes/LojaVirtual/blob/anapaula/imagens/imagem%20projeto3.PNG?raw=true)
 
 
 
